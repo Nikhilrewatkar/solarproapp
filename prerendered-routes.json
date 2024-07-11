@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/about",
+    "/commercial",
+    "/home",
+    "/housing_society"
+  ]
+}
