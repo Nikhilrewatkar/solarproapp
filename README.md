@@ -1,2 +1,0 @@
-# solarproapp
-solar pages app
